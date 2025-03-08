@@ -8,7 +8,7 @@ XDASH is a very heavy-weight tool developed for XBOT Robotics that is designed t
 
 Download the latest release of XDASH from the link below:
 
-[Download XDASH](https://github.com/Kobeeeef/XDASH/releases/latest)
+[Download XDASHv25](https://github.com/Kobeeeef/XDASH2025/releases/latest)
 
 ## Usage
 
